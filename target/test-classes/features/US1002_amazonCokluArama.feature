@@ -1,4 +1,3 @@
-
 Feature: US1002 Kullanici amazon anasayfada birden fazla urun aratir
 
 
@@ -18,3 +17,4 @@ Feature: US1002 Kullanici amazon anasayfada birden fazla urun aratir
     Then amazon arama kutusuna Samsung yazip aratir
     And arama sonuclarinin Samsung icerdigini test eder
     Then sayfayi kapatir
+

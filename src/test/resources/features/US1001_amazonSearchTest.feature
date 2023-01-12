@@ -1,4 +1,3 @@
-
 Feature: US1001 Kullanici amazonda test yapar
 
   Scenario: TC01 Kullanici amazonda Nutella aratir
